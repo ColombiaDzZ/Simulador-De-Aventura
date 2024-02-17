@@ -19,7 +19,7 @@ O script `inventario.lua` permite ao jogador gerenciar o inventário do personag
 ## Como Jogar
 
 1. Clone o repositório para o seu computador.
-2. Certifique-se de ter o interpretador Lua instalado.
+2. Instale Lua no seu computador.
 3. Execute os scripts utilizando o Lua:
     ```bash
     lua ./main.lua
