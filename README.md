@@ -22,6 +22,6 @@ O script `inventario.lua` permite ao jogador gerenciar o inventário do personag
 2. Certifique-se de ter o interpretador Lua instalado.
 3. Execute os scripts utilizando o Lua:
     ```bash
-    lua criar_personagem.lua
+    lua ./main.lua
     ```
 4. Siga as instruções apresentadas no jogo para criar seu personagem e explorar o mundo da aventura.
